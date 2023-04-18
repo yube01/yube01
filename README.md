@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [qfx clone website](https://qfx.netlify.app/)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
