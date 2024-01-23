@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **google drive clone**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://adhikariyubraj.com.np/](https://adhikariyubraj.com.np/)
 
@@ -15,7 +15,6 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=yube01&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yube01&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![An image of @yube01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yube01)](https://holopin.io/@yube01)
