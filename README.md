@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yubraj</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-- 🔭 I’m currently working on **Trailer Vault Project**
+- 🔭 I’m currently working on **Disease Predicting Model**
 
 - 🌱 I’m currently learning **AWS**
 
