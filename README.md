@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Disease Predicting Model**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **ML**
 
 - 👨‍💻 All of my projects are available at [https://adhikariyubraj.com.np/](https://adhikariyubraj.com.np/)
 
